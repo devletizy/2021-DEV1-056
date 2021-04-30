@@ -27,7 +27,7 @@ If all nine squares are filled and neither player has three in a row, the game i
 ## Build and run this app
 
 ### Run remote in git 
-     - [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/devletizy/2021-DEV1-056)
+     [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/devletizy/2021-DEV1-056)
 
 
 ### Run locally 
