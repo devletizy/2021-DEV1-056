@@ -1,6 +1,13 @@
-R0.0.0 - 29/04/2021
+R0.0.0 - 30/04/2021
 
 - Add This CHANGELOG File
 - Eddit README.md
 - Initialize gitflow repository management
 - Configure .gitignore
+- STEP0
+	* Init Maven project with spring-boot see 
+	* generate maven projet - spring boot vaadin
+	* adding minimal code for test and ui
+	* adding .gitpod.yml config file 
+	* adding run app in https://gitpod.io/ need to login with github personnal account
+	
